@@ -31,8 +31,7 @@ Small, focused app that turns “random ingredients in my kitchen” into a usab
   - V4 – Evaluation and observability
 ---
 🧠 **3. What's next?** 
-More stack aligned projects with the same pattern
- >**Start with a clear mental model → build a small, focused app → document what was learned, as a PM, at each layer of the stack.**
+ More stack aligned projects with the same pattern simple 5-layer mental model of the LLM stack for PMs 👉 [AI-Stack](https://github.com/pbaptist08/AI-systems-stack)
 
 ---
 If you’re curious about any of this work or want to swap notes on AI + product, feel free to reach out **(prashanthbaptist@outlook.com)**

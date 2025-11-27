@@ -17,7 +17,7 @@ Most of my “serious product work” lives in private company repos; this is th
 
 ## Learning Phase
 
-** 🧠 1. How I think about the AI stack?** A simple 5-layer mental model of the LLM stack for PMs 👉 [AI-Stack](https://github.com/pbaptist08/AI-systems-stack)
+ 🧠 **1. How I think about the AI stack?** A simple 5-layer mental model of the LLM stack for PMs 👉 [AI-Stack](https://github.com/pbaptist08/AI-systems-stack)
 
 ---
 ### 🧪 2. How I’m learning each layer in practice   

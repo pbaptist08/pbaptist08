@@ -30,6 +30,11 @@ Small, focused app that turns “random ingredients in my kitchen” into a usab
   - V3 – Orchestration and light agent behavior
   - V4 – Evaluation and observability
 ---
+🧠 **1. How I think about the AI stack?** 
+ A simple 5-layer mental model of the LLM stack for PMs 👉 [AI-Stack](https://github.com/pbaptist08/AI-systems-stack)
+
+---
+
    **3. What’s next?**
 More **stack-aligned projects**, All new projects will follow the same pattern:
   > **Start with a clear mental model → build a small, focused app → document what was learned, as a PM, at each layer of the stack.**

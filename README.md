@@ -24,11 +24,11 @@ Most of my “serious product work” lives in private company repos; this is th
  🧪 **2. How I’m learning each layer in practice**   
 Small, focused app Turns “random ingredients in my kitchen” into a usable recipe [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
   
-  - V0 – Prompting & structured outputL Prompt-only backend, clear system prompt, constrained output format, and manual test cases to tune behavior.  
-  - V1 – RAG v1 (Supabase KB + embeddings):Curated recipe rules and patterns stored in Supabase with embeddings; retrieved context is injected into the prompt so recipes are grounded in the KB.  
-  - V2 – RAG v2 (docs/PDFs as knowledge):Extend the knowledge base with cookbook-style docs/PDFs and see how retrieval over longer, messier content changes answers.  
-  - V3 – Orchestration and light agent behavior:Simple multi-step flow: interpret user request → retrieve context → generate recipe → optionally generate shopping list or variations.  
-  - V4 – Evaluation and observability: Offline eval set (edge cases and safety cases), prompt regression checks, and basic logging/tracing of prompts, context, and responses.
+  - V0 – Prompting & structured output
+  - V1 – RAG v1 (Supabase KB + embeddings)
+  - V2 – RAG v2 (docs/PDFs as knowledge)
+  - V3 – Orchestration and light agent behavior
+  - V4 – Evaluation and observability
 ---
 
 ### 3. What’s next 🔭

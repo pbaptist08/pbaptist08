@@ -20,12 +20,12 @@ Most of my “serious product work” lives in private company repos; this is th
  🧠 **1. How I think about the AI stack?** A simple 5-layer mental model of the LLM stack for PMs 👉 [AI-Stack](https://github.com/pbaptist08/AI-systems-stack)
 
 ---
-### 🧪 2. How I’m learning each layer in practice   
-Small, focused apps where I practice prompting, RAG, and UX decisions against real constraints.
+ 🧪 **2. How I’m learning each layer in practice**   
+🌐  Small, focused app: [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
 
 - 🍳 **Recipe Rescuer – From Prompting to RA**  
   Turns “random ingredients in my kitchen” into a usable recipe, evolving from prompt-only to Supabase-backed RAG.  
-  🌐 [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
+  
 ---
 
 ### 3. What’s next 🔭

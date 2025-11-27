@@ -21,7 +21,7 @@ Most of my “serious product work” lives in private company repos; this is th
 
 ---
  🧪 **2. How I’m learning each layer in practice**   
-🌐  Small, focused app: [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
+Small, focused app: [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
 
 - 🍳 **Recipe Rescuer – From Prompting to RA**  
   Turns “random ingredients in my kitchen” into a usable recipe, evolving from prompt-only to Supabase-backed RAG.  

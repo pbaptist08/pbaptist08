@@ -17,15 +17,16 @@ Most of my “serious product work” lives in private company repos; this is th
 
 ## Learning Phase
 
-### 🧠 1. How I think about the AI stack 
+### 🧠 1. How I think about the AI stack?
 A simple 5-layer mental model of the LLM stack for PMs 👉 
+
 ---
 ### 🧪 2. How I’m learning each layer in practice   
 Small, focused apps where I practice prompting, RAG, and UX decisions against real constraints.
 
-- 🍳 **Recipe Rescuer – From Prompting to RAG**  
+- 🍳 **Recipe Rescuer – From Prompting to RA**  
   Turns “random ingredients in my kitchen” into a usable recipe, evolving from prompt-only to Supabase-backed RAG.  
-  📂 [Code & docs](TODO: add repo link) · 🌐 [Live app](TODO: add live link)
+  🌐 [Live app](TODO: add live link)
 ---
 
 ### 3. What’s next 🔭

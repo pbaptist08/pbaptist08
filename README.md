@@ -31,7 +31,7 @@ Small, focused app that turns “random ingredients in my kitchen” into a usab
   - V4 – Evaluation and observability
 ---
 🧠 **3. What's next?** 
- More stack ligned projects with the same pattern
+More stack aligned projects with the same pattern
  >**Start with a clear mental model → build a small, focused app → document what was learned, as a PM, at each layer of the stack.**
 
 ---

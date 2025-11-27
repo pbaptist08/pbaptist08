@@ -1,6 +1,6 @@
 # Hi, I'm Prashanth 👋
 
-Senior product manager who loves turning messy real-world data and constraints into AI-powered products that actually ship and move the needle.
+Professionally born in data, polished in consulting and happiest in product!
 
 ---
 

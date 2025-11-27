@@ -22,7 +22,7 @@ Most of my “serious product work” lives in private company repos; this is th
  
 ---
  🧪 **2. How I’m learning each layer in practice**   
-Small, focused app Turns “random ingredients in my kitchen” into a usable recipe [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
+Small, focused app that turns “random ingredients in my kitchen” into a usable recipe [Recipe-Rescuer](https://pb-recipe-rescuer.lovable.app)
   
   - V0 – Prompting & structured output
   - V1 – RAG v1 (Supabase KB + embeddings)
